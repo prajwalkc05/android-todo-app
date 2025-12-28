@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="IOSButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/circle_bg</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:layout_margin">6dp</item>
+    </style>
+
+    <style name="IOSButton.Digit" parent="IOSButton">
+        <item name="android:backgroundTint">@color/ios_btn_digit</item>
+        <item name="android:textColor">@color/ios_text_white</item>
+    </style>
+
+    <style name="IOSButton.Op" parent="IOSButton">
+        <item name="android:backgroundTint">@color/ios_btn_op</item>
+        <item name="android:textColor">@color/ios_text_white</item>
+    </style>
+
+    <style name="IOSButton.Func" parent="IOSButton">
+        <item name="android:backgroundTint">@color/ios_btn_func</item>
+        <item name="android:textColor">@color/ios_text_black</item>
+    </style>
+</resources>
