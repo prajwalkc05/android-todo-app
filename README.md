@@ -1,56 +1,28 @@
-# Android Calculator App 📱
+# 🧮 Calculator App (Android)
 
-A simple and clean Android Calculator application built using **Kotlin** and **XML**.  
-This project demonstrates basic Android development concepts and UI design.
-
----
+A simple and clean Android calculator app built using **Kotlin** and **XML**.
 
 ## ✨ Features
-- Perform basic arithmetic operations (+, −, ×, ÷)
-- Clear button to reset calculation
-- Clean and user-friendly UI
-- Responsive layout using GridLayout
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Clear button
+- Clean UI
 
----
+## 📦 Download APK
+👉 [Click here to download the APK](app-debug.apk)
 
-## 🧠 Skills Demonstrated
-- Android UI design using XML
-- Event handling with Kotlin
-- Activity lifecycle basics
-- Clean project structure
-- Git & GitHub version control
-
----
+> Enable "Install from Unknown Sources" on your Android phone before installing.
 
 ## 🛠 Tech Stack
-- **Language:** Kotlin  
-- **UI:** XML  
-- **IDE:** Android Studio  
-- **Version Control:** Git & GitHub  
+- Kotlin
+- Android Studio
+- XML Layouts
+- Gradle
 
----
+## 📱 Preview
+Calculator app with real-time calculations.
 
-## 📷 Screenshots
-*(You can add emulator screenshots later)*
-
----
-
-## ▶ How to Run
-1. Clone the repository
-2. Open in Android Studio
-3. Click ▶ Run
-4. Select an emulator or physical device
-
----
-
-## 👤 Author
-**Prajwal K C**  
-BCA Student | Android App Development  
-
----
-
-## 📌 Future Enhancements
-- Scientific calculator mode
-- History of calculations
-- Dark mode support
-
+## 👨‍💻 Author
+Prajwal K.C
