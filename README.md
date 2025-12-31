@@ -10,11 +10,14 @@ A simple and clean Android calculator app built using **Kotlin** and **XML**.
 - Clear button
 - Clean UI
 
-## 📦 Download APK
-👉 [Click here to download the APK](apk/app-debug.apk
+## 📱 Live Demo (APK)
+
+👉 Download & install the app:
+[Download APK](https://github.com/prajwalkc05/calculator-app/releases/download/v1.0/app-debug.apk
 )
 
-> Enable "Install from Unknown Sources" on your Android phone before installing.
+⚠️ Enable "Install from unknown sources" on your phone.
+
 
 ## 🛠 Tech Stack
 - Kotlin
