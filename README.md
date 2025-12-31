@@ -11,7 +11,7 @@ A simple and clean Android calculator app built using **Kotlin** and **XML**.
 - Clean UI
 
 ## 📦 Download APK
-👉 [Click here to download the APK](app/build/outputs/apk/debug/app-debug.apk
+👉 [Click here to download the APK](apk/app-debug.apk
 )
 
 > Enable "Install from Unknown Sources" on your Android phone before installing.
